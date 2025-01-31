@@ -1,0 +1,100 @@
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.csproj.AssemblyReference.cache
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.AssemblyInfoInputs.cache
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.AssemblyInfo.cs
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.csproj.CoreCompileInputs.cache
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\bin\Debug\net6.0\appsettings.json
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\bin\Debug\net6.0\ShopDemo2API.exe
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\bin\Debug\net6.0\ShopDemo2API.deps.json
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\bin\Debug\net6.0\ShopDemo2API.runtimeconfig.json
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\bin\Debug\net6.0\ShopDemo2API.dll
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\bin\Debug\net6.0\ref\ShopDemo2API.dll
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\bin\Debug\net6.0\ShopDemo2API.pdb
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\obj\Debug\net6.0\scopedcss\bundle\ShopDemo2API.styles.css
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.csproj.CopyComplete
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.dll
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\obj\Debug\net6.0\ref\ShopDemo2API.dll
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.pdb
+C:\Users\Irina Diaz\Downloads\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.genruntimeconfig.cache
+D:\Oleiny\Rideco\ShopDemo2API\bin\Debug\net6.0\appsettings.Development.json
+D:\Oleiny\Rideco\ShopDemo2API\bin\Debug\net6.0\appsettings.json
+D:\Oleiny\Rideco\ShopDemo2API\bin\Debug\net6.0\ShopDemo2API.staticwebassets.endpoints.json
+D:\Oleiny\Rideco\ShopDemo2API\bin\Debug\net6.0\ShopDemo2API.exe
+D:\Oleiny\Rideco\ShopDemo2API\bin\Debug\net6.0\ShopDemo2API.deps.json
+D:\Oleiny\Rideco\ShopDemo2API\bin\Debug\net6.0\ShopDemo2API.runtimeconfig.json
+D:\Oleiny\Rideco\ShopDemo2API\bin\Debug\net6.0\ShopDemo2API.dll
+D:\Oleiny\Rideco\ShopDemo2API\bin\Debug\net6.0\ShopDemo2API.pdb
+D:\Oleiny\Rideco\ShopDemo2API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Oleiny\Rideco\ShopDemo2API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Oleiny\Rideco\ShopDemo2API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Oleiny\Rideco\ShopDemo2API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.csproj.AssemblyReference.cache
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.AssemblyInfoInputs.cache
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.AssemblyInfo.cs
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.csproj.CoreCompileInputs.cache
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.MvcApplicationPartsAssemblyInfo.cs
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.MvcApplicationPartsAssemblyInfo.cache
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\scopedcss\bundle\ShopDemo2API.styles.css
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\staticwebassets\msbuild.ShopDemo2API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\staticwebassets\msbuild.ShopDemo2API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\staticwebassets\msbuild.build.ShopDemo2API.props
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopDemo2API.props
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopDemo2API.props
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo.8047E580.Up2Date
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.dll
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\refint\ShopDemo2API.dll
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.pdb
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\ShopDemo2API.genruntimeconfig.cache
+D:\Oleiny\Rideco\ShopDemo2API\obj\Debug\net6.0\ref\ShopDemo2API.dll
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\bin\Debug\net6.0\appsettings.json
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\bin\Debug\net6.0\ShopDemo2API.staticwebassets.endpoints.json
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\bin\Debug\net6.0\ShopDemo2API.exe
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\bin\Debug\net6.0\ShopDemo2API.deps.json
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\bin\Debug\net6.0\ShopDemo2API.runtimeconfig.json
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\bin\Debug\net6.0\ShopDemo2API.dll
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\bin\Debug\net6.0\ShopDemo2API.pdb
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\ShopDemo2API.csproj.AssemblyReference.cache
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\ShopDemo2API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\ShopDemo2API.AssemblyInfoInputs.cache
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\ShopDemo2API.AssemblyInfo.cs
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\ShopDemo2API.csproj.CoreCompileInputs.cache
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\ShopDemo2API.MvcApplicationPartsAssemblyInfo.cs
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\ShopDemo2API.MvcApplicationPartsAssemblyInfo.cache
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\ShopDemo2API.sourcelink.json
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\scopedcss\bundle\ShopDemo2API.styles.css
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\staticwebassets\msbuild.ShopDemo2API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\staticwebassets\msbuild.ShopDemo2API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ShopDemo2API.props
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ShopDemo2API.props
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ShopDemo2API.props
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\ShopDemo.8047E580.Up2Date
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\ShopDemo2API.dll
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\refint\ShopDemo2API.dll
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\ShopDemo2API.pdb
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\ShopDemo2API.genruntimeconfig.cache
+D:\Oleiny\Rideco\grocery-list\GroceryList-RESTAPI\obj\Debug\net6.0\ref\ShopDemo2API.dll
