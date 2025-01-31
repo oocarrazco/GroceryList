@@ -1,0 +1,54 @@
+/* Add Item Button */
+.add-item-button {
+    background-color: #B0302E;
+    color: rgba(255, 255, 255, 0.95);
+    transition: background-color 0.3s ease;
+  }
+  
+  .add-item-button:hover {
+    background-color: #D54442;
+  }
+  
+  /* Edit Button */
+  .edit-button {
+    background-color: #1a3c6e;
+    color: white;
+  }
+  
+  .edit-button:hover {
+    background-color: #2b5594;
+  }
+  
+  /* Delete Button */
+  .delete-button {
+    background-color: #d50805;
+    color: white;
+  }
+  
+  .delete-button:hover {
+    background-color: #e65b59;
+  }
+  
+  /* Line-through Purchased Items */
+  .line-through {
+    text-decoration: line-through;
+    color: #D54442;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .flex-wrap {
+      flex-wrap: wrap;
+    }
+  
+    .add-item-button {
+      padding: 0.5rem;
+      font-size: 0.875rem;
+    }
+  
+    .d-flex {
+      gap: 0.5rem;
+    }
+    
+  }
+  
