@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{222B872C-A59B-45DC-A3AA-0FBFCE7B6AC3}|ShopDemo2API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{222B872C-A59B-45DC-A3AA-0FBFCE7B6AC3}|ShopDemo2API.csproj|d:\\oleiny\\rideco\\grocerylist\\grocerylist-restapi\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{222B872C-A59B-45DC-A3AA-0FBFCE7B6AC3}|ShopDemo2API.csproj|solutionrelative:controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{222B872C-A59B-45DC-A3AA-0FBFCE7B6AC3}|ShopDemo2API.csproj|d:\\oleiny\\rideco\\grocerylist\\grocerylist-restapi\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{222B872C-A59B-45DC-A3AA-0FBFCE7B6AC3}|ShopDemo2API.csproj|solutionrelative:services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{222B872C-A59B-45DC-A3AA-0FBFCE7B6AC3}|ShopDemo2API.csproj|d:\\oleiny\\rideco\\grocerylist\\grocerylist-restapi\\dbcontexts\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{222B872C-A59B-45DC-A3AA-0FBFCE7B6AC3}|ShopDemo2API.csproj|solutionrelative:dbcontexts\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{222B872C-A59B-45DC-A3AA-0FBFCE7B6AC3}|ShopDemo2API.csproj|d:\\oleiny\\rideco\\grocerylist\\grocerylist-restapi\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{222B872C-A59B-45DC-A3AA-0FBFCE7B6AC3}|ShopDemo2API.csproj|solutionrelative:controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{222B872C-A59B-45DC-A3AA-0FBFCE7B6AC3}|ShopDemo2API.csproj|d:\\oleiny\\rideco\\grocerylist\\grocerylist-restapi\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\Oleiny\\Rideco\\GroceryList\\GroceryList-RESTAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-31T02:37:31.291Z",
               "EditorCaption": ""
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DbContext.cs",
               "DocumentMoniker": "D:\\Oleiny\\Rideco\\GroceryList\\GroceryList-RESTAPI\\DBContexts\\DbContext.cs",
               "RelativeDocumentMoniker": "DBContexts\\DbContext.cs",
@@ -91,19 +91,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ItemController.cs",
               "DocumentMoniker": "D:\\Oleiny\\Rideco\\GroceryList\\GroceryList-RESTAPI\\Controllers\\ItemController.cs",
               "RelativeDocumentMoniker": "Controllers\\ItemController.cs",
               "ToolTip": "D:\\Oleiny\\Rideco\\GroceryList\\GroceryList-RESTAPI\\Controllers\\ItemController.cs",
               "RelativeToolTip": "Controllers\\ItemController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T19:42:26.917Z"
+              "WhenOpened": "2025-01-22T19:42:26.917Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ItemService.cs",
               "DocumentMoniker": "D:\\Oleiny\\Rideco\\GroceryList\\GroceryList-RESTAPI\\Services\\ItemService.cs",
               "RelativeDocumentMoniker": "Services\\ItemService.cs",
@@ -111,8 +112,7 @@
               "RelativeToolTip": "Services\\ItemService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T19:42:26.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T19:42:26.922Z"
             },
             {
               "$type": "Document",

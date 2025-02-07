@@ -1,0 +1,38 @@
+
+services:
+  frontend:
+    build:
+      context: ./grocerylist-frontend
+      dockerfile: Dockerfile
+    ports:
+      - "4200:80"
+    depends_on:
+      - backend
+
+  backend:
+    build:
+      context: ./grocerylist-restapi
+      dockerfile: Dockerfile
+    environment:
+      - ASPNETCORE_URLS=http://+:7003
+      - DOTNET_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=${DB_CONNECTION_STRING}
+    ports:
+      - "7003:7003"
+      - "7004:7004"
+    depends_on:
+      - sqlserver
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=${MSSQL_SA_PASSWORD}
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql-data:/var/opt/mssql
+
+volumes:
+  sql-data:
